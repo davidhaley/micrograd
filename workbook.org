@@ -1,0 +1,12 @@
+#+title: Workbook
+#+PROPERTY: header-args :results output :cache yes
+#+PROPERTY: header-args:jupyter-python :session py :async yes :kernel python3
+
+#+BEGIN_SRC jupyter-python
+
+import math
+import numpy as np
+import matplotlib.pyplot as plt
+
+#+END_SRC
+
